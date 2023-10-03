@@ -2,7 +2,7 @@ import fastapi
 # from fastapi import Request, Response
 import uvicorn
 # from model import DelayModel
-from challenge.model import DelayModel
+from model import DelayModel
 from typing import List, Dict
 from fastapi import HTTPException
 # from fastapi.responses import JSONResponse
