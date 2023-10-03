@@ -1,0 +1,1 @@
+#In this case Cd workflow is not necessary for this project, because fl0 allows the CD with a webhook directly to the main branch of the Github repository.
