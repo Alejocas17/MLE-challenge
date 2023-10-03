@@ -55,10 +55,10 @@ In addition, the DS considered relevant the creation of the following columns:
     This is an example of the `body` you must send:
     ```json
     {
-      "name": "Juan Perez",
-      "mail": "juan.perez@example.com",
-      "github_url": "https://github.com/juanperez/latam-challenge.git",
-      "api_url": "https://juan-perez.api"
+      "name": "Alejandro Castillo",
+      "mail": "alejocas17@hotmail.com",
+      "github_url": "https://github.com/Alejocas17/MLE-challenge.git",
+      "api_url": "https://mle-challenge-kbtb-dev.fl0.io"
     }
     ```
     ##### ***PLEASE, SEND THE REQUEST ONCE.***
