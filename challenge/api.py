@@ -14,4 +14,4 @@ async def post_predict() -> dict:
 
 
 if __name__=='__main__':
-    uvicorn.run("api:app",port=7777,reload=True,host="localhost")
+    uvicorn.run("api:app",port=8000,reload=True,host="localhost")

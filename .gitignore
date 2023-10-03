@@ -1,3 +1,5 @@
 /dev-venv
+/test-venv
+/reports
 .vscode
 .github
